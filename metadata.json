@@ -1,6 +1,0 @@
-{
-  "name": "Inventory Management System",
-  "description": "Desktop web dashboard for inventory items, pick list generation, and real-time order fulfillment tracking.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
